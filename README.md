@@ -1,5 +1,5 @@
 # Azure-ML-Studio-Projects
-OBJECTIVE
+OBJECTIVE:
 Sale Price Prediction using Azure Machine Learning Studio with Excel API integration that help you predict house prices based on machine learning algorithm (K-means Clustering). 
 1. Create a Machine Learning Model with Azure Machine Learning Studio
    - Explore and visualize datasets with python in jupyter notebooks.
