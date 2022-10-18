@@ -37,7 +37,7 @@ OBJECTIVE:
 <b>
 3. Train a classification model (supervised learning) in Azure Machine learning studio
 </b>
-<img src="https://github.com/Dalbee/Azure-ML-Studio-Projects/blob/master/Lemonade-classificaton.png" alt="Lemonade-classificaton" title="Lemonade-classificaton">
+<img src="https://github.com/Dalbee/Azure-ML-Studio-Projects/blob/master/lemonade%20classification%20-%20annontated.png" alt="Lemonade-classificaton" title="Lemonade-classificaton">
    <figcaption>
     <b> Figure: Lemonade classificaton</b>
    </figcaption> 
@@ -49,7 +49,7 @@ OBJECTIVE:
 4. Train a clustering model (Unsupervised learning)
 </b>
    - copy an existing training experiment from the Azure AI Gallery and run it to train a K-Means clustering model that segments specific customers into clusters based on similarities in their features 
-<img src="https://github.com/Dalbee/Azure-ML-Studio-Projects/blob/master/Lemonade-clustering-customers.png" alt="Lemonade-clustering-customers" title="Lemonade-clustering-customers">
+<img src="https://github.com/Dalbee/Azure-ML-Studio-Projects/blob/master/lemonade%20clustering%20customers%20-%20annontated.png" alt="Lemonade-clustering-customers" title="Lemonade-clustering-customers">
    <figcaption>
     <b> Figure: Lemonade clustering customers</b>
    </figcaption> 
